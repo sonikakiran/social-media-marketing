@@ -1,2 +1,2 @@
 # social-media-marketing
-Work sample for Facebook, Instagram an WhatsApp marketing. 
+Work sample for Facebook, Instagram and WhatsApp marketing. 
